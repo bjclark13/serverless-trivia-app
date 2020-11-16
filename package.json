@@ -1,0 +1,25 @@
+{
+  "name": "serverless-trivia-app",
+  "version": "1.0.0",
+  "description": "** This is a starting place for ODBDC talk on Serverless Framework**",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-offline": "^6.8.0",
+    "serverless-plugin-typescript": "^1.1.9",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjclark13/serverless-trivia-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjclark13/serverless-trivia-app/issues"
+  },
+  "homepage": "https://github.com/bjclark13/serverless-trivia-app#readme"
+}
